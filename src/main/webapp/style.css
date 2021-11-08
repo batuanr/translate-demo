@@ -1,0 +1,19 @@
+h2 {
+    color: #008b2c;
+}
+#txt {
+    width: 150px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+#submit {
+    background-color: #d7e7fa;
+    width: 80px;
+    height: 30px;
+    border-radius: 2px;
+
+}
+#submit:hover {
+    background-color: blueviolet;
+}
